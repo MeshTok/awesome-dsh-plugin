@@ -3390,7 +3390,7 @@ dsh plugin --profile web add dshmarket
 - [MengXingXiaoMing/dsh-tianjige](https://github.com/MengXingXiaoMing/dsh-tianjige) — 图形/动画/物理/AI 算法的可查询天书——219 条术法，带取舍说明与现成实现链接，提供 10 个 agent 工具与侧栏页面。AI 工具需 DEEPSEEK_API_KEY。
 - [menotbobbybrown/dsh-plugin-mcp](https://github.com/menotbobbybrown/dsh-plugin-mcp) — DeepSeek Harness 通用 Model Context Protocol (MCP) 桥接插件：支持 stdio/sse/websocket 协议，具备 10k 休眠伸缩引擎、亚毫秒级 BM25 工具检索、动态 Token 预算管理及实时 Web UI 仪表盘。
 - [merenguesL/dsh-tool-normalizer](https://github.com/merenguesL/dsh-tool-normalizer) — 给工具调用加一层自愈：缺参数、错字段、路径越界在到达模型前自动修好，实测可见错误率从 7.95% 降到 2.20%。
-- [MeshTok/dsh-plugin-yuantoutao](https://github.com/MeshTok/dsh-plugin-yuantoutao) — 电商插件——一个 MCP 给你的 AI 加上商品搜索、比价与购买能力，覆盖淘宝/京东/拼多多 5 万+ 精选商品（源头淘）。
+- [MeshTok/dsh-plugin-yuantoutao](https://github.com/MeshTok/dsh-plugin-yuantoutao) — 电商插件——一个 MCP 给你的 AI 加上商品搜索、比价与购买能力，覆盖淘宝/京东/拼多多 200 万+ 精选商品（源头淘）。
 - [Meteor-system/dsh-codegraph](https://github.com/Meteor-system/dsh-codegraph) — 将当前工作区索引为关系图，向 agent 暴露一个工具 codegraph_explore（可达性、调用者、影响面），并在 Web 右侧栏提供图形面板。
 - [mimosa776/dsh-plugin-recommender](https://github.com/mimosa776/dsh-plugin-recommender) — 按职业/角色推荐 DSH 插件：询问用户是做什么的（程序员、设计师、写作、研究、运维、学生…），推荐适合的插件，并对每个插件做本地静态安全审计（危险代码模式 + 0-100 风险分）与口碑检查（npm 下载量 / GitHub 星数）。
 - [MingShi350/kiwix-wiki](https://github.com/MingShi350/kiwix-wiki) — 通过你自己运行的 kiwix-serve 离线查询维基百科等 ZIM 数据包：wiki_search / wiki_read / wiki_books 三个工具分别做带摘要片段的全文搜索、按精确标题读取全文、列出本地 ZIM 书库。
