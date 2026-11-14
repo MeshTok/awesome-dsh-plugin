@@ -1,0 +1,6 @@
+url: https://github.com/MeshTok/dsh-plugin-meshmoe
+name: MeshTok/dsh-plugin-meshmoe
+category: model
+description:
+  en: Run a free local MeshMoe-4B agent in DeepSeek Harness — one-click llama.cpp runtime, zero registration, zero API keys. Your machine joins the MeshMoe distributed compute network as a specialist node and earns Joules (honor credits) for mesh tasks it serves.
+  zh: 在 DeepSeek Harness 中免费运行本地 MeshMoe-4B 智能体——一键接入 llama.cpp 运行时，免注册、免 API Key。你的电脑自动加入 MeshMoe 分布式算力网络成为专家节点，为网格任务供算可获得焦耳（社区荣誉计量）。
